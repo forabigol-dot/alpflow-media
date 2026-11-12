@@ -1,0 +1,57 @@
+{
+  "fps": 15,
+  "width": 2560,
+  "height": 1440,
+  "count": 1756,
+  "tiers": [
+    {
+      "width": 960,
+      "height": 540
+    },
+    {
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "stations": [
+    {
+      "id": "see",
+      "start": 0,
+      "end": 325
+    },
+    {
+      "id": "zufluesse",
+      "start": 326,
+      "end": 535
+    },
+    {
+      "id": "wasserfall",
+      "start": 536,
+      "end": 775
+    },
+    {
+      "id": "wald",
+      "start": 776,
+      "end": 985
+    },
+    {
+      "id": "felswand",
+      "start": 986,
+      "end": 1195
+    },
+    {
+      "id": "hochtal",
+      "start": 1196,
+      "end": 1400
+    },
+    {
+      "id": "gipfel",
+      "start": 1401,
+      "end": 1755
+    }
+  ]
+}
